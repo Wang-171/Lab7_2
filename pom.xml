@@ -31,7 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.mycompany.userapp.UserApp</mainClass>
+                            <mainClass>com.mycompany.UserApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

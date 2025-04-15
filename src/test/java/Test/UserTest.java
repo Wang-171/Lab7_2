@@ -8,7 +8,7 @@ package Test;
  *
  * @author quang
  */
-import com.mycompany.userapp.User;
+import com.mycompany.User;
 import junit.framework.TestCase;
 
 public class UserTest extends TestCase {
