@@ -13,10 +13,10 @@ import junit.framework.TestCase;
 
 public class UserTest extends TestCase {
 
-//    public void testUserConstructor() {
-//        User user = new User("user1", "user1@cmucs246.com");
-//        assertEquals("user1", user.getEmail());
-//    }
+    public void testUserConstructor() {
+       User user = new User("user1", "user1@cmucs246.com");
+        assertEquals("user1", user.getEmail());
+    }
 
     public void testSetEmail() {
         User user = new User("user1", "user1@cmucs246.com");
